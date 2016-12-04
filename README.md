@@ -1,5 +1,6 @@
 # My Resume  
 Created a simple single-page resume to showcase my skills, experience, and education. The page was built with AngularJS and W3.css.  
+Live version: https://thuynh8.github.io/resume/  
 ## How to run:  
 1. Clone or download this repo.  
 2. Open index.html with your web browser.  
