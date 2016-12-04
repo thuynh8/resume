@@ -1,0 +1,6 @@
+{
+  "name": "Resume",
+  "tagline": "A Simple Resume",
+  "body": "# My Resume  \r\nCreated a simple single-page resume to showcase my skills, experience, and education. The page was built with AngularJS and W3.css.  \r\n## How to run:  \r\n1. Clone or download this repo.  \r\n2. Open index.html with your web browser.  \r\n  \r\n[![screencapture-file-Users-Tan-Desktop-portfolio-i.png](https://s25.postimg.org/mackzjnof/screencapture_file_Users_Tan_Desktop_portfolio_i.png)](https://postimg.org/image/ncmri36hn/)\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
